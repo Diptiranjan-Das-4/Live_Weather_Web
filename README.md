@@ -3,8 +3,8 @@
 A simple and responsive **Live Weather Web Application** that provides real-time weather information for different locations. The project is built using **HTML, CSS, and JavaScript** and fetches live weather data through a weather API.
 
 ![Project Structure](images/Structure.png)
-Go to this link to Check Weatherh:
-ttps://diptiranjan-das-4.github.io/Live_Weather_Web/
+Go to this link to Check Weather:
+https://diptiranjan-das-4.github.io/Live_Weather_Web/
 
 ## ✨ Features
 
