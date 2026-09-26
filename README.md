@@ -2,6 +2,8 @@
 
 A simple and responsive **Live Weather Web Application** that provides real-time weather information for different locations. The project is built using **HTML, CSS, and JavaScript** and fetches live weather data through a weather API.
 
+![Project Structure](images/Structure.png)
+
 ## ✨ Features
 
 * 🔍 Search weather by city name
